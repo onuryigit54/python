@@ -1,0 +1,12 @@
+{
+    "Kullanici_1": {
+        "ad": "Bilge",
+        "tema": "Koyu",
+        "dil": "Türkçe"
+    },
+    "Kullanici_2": {
+        "ad": "Kağan",
+        "tema": "Açık",
+        "dil": "İngilizce"
+    }
+}

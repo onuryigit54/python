@@ -1,0 +1,4 @@
+-> Sistem Kaydı: deneme
+-> Sistem Kaydı: ooooo
+-> Sistem Kaydı: onur yiğit
+-> Sistem Kaydı: c:\Users\Admin\AppData\Local\Programs\Python\Python310\python.exe c:/Users/Admin/Desktop/Python_2026/OB5_Uygulama4.py
